@@ -126,3 +126,29 @@ button.btn.thali_btn {
   background: #0e0e12;
   color: #fff;
 }
+
+
+
+ul {
+  list-style: none;
+  padding: 10px 6px;
+}
+
+
+strong.doc {
+  cursor: pointer;
+}
+
+strong.doc:hover{
+  text-decoration: underline;
+}
+
+ul li button {
+  border-radius: 6px;
+  padding: 6px 15px;
+  margin: 6px 11px;
+}
+ul li {
+  display: flex;
+  justify-content: space-between;
+}

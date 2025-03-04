@@ -1,0 +1,15 @@
+{
+    "name": "root",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Documents",
+        "type": "folder",
+        "children": [
+          { "name": "file1.txt", "type": "file", "content": "Hello, World!" }
+        ]
+      },
+      { "name": "image.png", "type": "file", "content": "base64string" }
+    ]
+  }
+  
